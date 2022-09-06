@@ -39,4 +39,4 @@ If you don't know markdown and still want to add notes prapered by you, create a
 
 ## Copyright
 
-Faculties and Students of Southeaset University
+Faculties and Students of Southeast University
