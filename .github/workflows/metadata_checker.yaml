@@ -15,4 +15,4 @@ jobs:
         python-version: 3.8
 
     - name: Check Metadata
-      run: python checkers/metadata_checker.py
+      run: cd checkers && python metadata_checker.py
