@@ -4,7 +4,7 @@ Class notes of Southeast University, Computer Science Engineering (Dimploma) cou
 
 We are organizing notes only of Batch 14, Section C.
 
-If you are from other section or from other batch, please make an issue to inform us about your needs.
+If you are from other section or from other batch, please make an [issue](https://github.com/HazzazBinFaiz/seu-cse-notes/issues) to inform us about your needs.
 
 ## Contributing
 
