@@ -11,12 +11,12 @@ If you are from other section or from other batch, please make an [issue](https:
 To contribute write notes as below directory map
 
 ```bash
-{subject}/{year_month_day}_{slug}.md
+notes/{subject}/{year_month_day}_{slug}.md
 ```
 
 For special note from faculty
 ```
-{subject}/_note_{index}.md
+notes/{subject}/_note_{index}.md
 ```
 
 Filename should use [snake case](https://en.wikipedia.org/wiki/Snake_case).
