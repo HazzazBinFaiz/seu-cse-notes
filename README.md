@@ -11,7 +11,7 @@ If you are from other section or from other batch, please make an [issue](https:
 To contribute write notes as below directory map
 
 ```bash
-{subject}/{date}_{slug}.md
+{subject}/{year_month_day}_{slug}.md
 ```
 
 For special note from faculty
@@ -19,13 +19,15 @@ For special note from faculty
 {subject}/_note_{index}.md
 ```
 
+Filename should use [snake case](https://en.wikipedia.org/wiki/Snake_case).
+
 
 Write whole note in [markdow](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 In the bottom write metadata about the note, like below
 
 
 <pre>
-```yaml (metadata)
+```yaml
 title: Introduction to Essey Writing
 faculty: Dr. Seikh Mehedi Hasan
 date: 2022-09-01
