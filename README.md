@@ -36,7 +36,7 @@ contributor: Dev1, Dev2
 ```
 </pre>
 
-To know more about metadata fileds writing rule, navigate to [Note contributing].(notes/README.md)
+To know more about metadata fileds writing rule, navigate to [Note contributing].(/notes/README.md)
 
 If you don't know markdown and still want to add notes prapered by you, create an [issue](https://github.com/HazzazBinFaiz/seu-cse-notes/issues).
 
