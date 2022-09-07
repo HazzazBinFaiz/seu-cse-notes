@@ -29,8 +29,8 @@ In the bottom write metadata about the note, like below
 <pre>
 ```yaml
 title: Introduction to Essey Writing
-faculty: Dr. Seikh Mehedi Hasan
 date: 2022-09-01
+faculty: Dr. Seikh Mehedi Hasan
 prepared_by: Someone1, Someone2
 contributor: Dev1, Dev2
 ```
