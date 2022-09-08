@@ -30,3 +30,4 @@ Student name should be in short form. Student may write his last 3 digit (as our
 | --- | --- | --- |
 | Hazzaz | MD. Hazzaz Bin Faiz | 2022100010096 |
 | Shohan | MD. Shohan Mia | 2022100010115 |
+| Rabbany | Golam Rabbany | 2022100010098 |
