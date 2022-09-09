@@ -19,10 +19,14 @@ The best alternative that we have forgone when we make a choice.
 4. Entrepreneurship
 
 
+![Firm Consumer flow](assets/farm_consumer_flow.svg)
+
+
 #### Explain PPF in concave downward.
 Production Possilbilty Frontiere (PPF) The possible combination of two goods that an economy can produce in  a certain period of time under the given state of technology.
 
 increasing oppertunity cost, As more of one good is produced the opportunity cost of that good increases.
+
 
 > Recommended book : **Economics** by Roger A Arnold
 
