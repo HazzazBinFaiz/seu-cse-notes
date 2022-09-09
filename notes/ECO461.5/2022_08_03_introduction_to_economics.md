@@ -28,6 +28,42 @@ Production Possilbilty Frontiere (PPF) The possible combination of two goods tha
 increasing oppertunity cost, As more of one good is produced the opportunity cost of that good increases.
 
 
+#### Economic concepts in a PPF Framework.
+Production Possibility Frontier
+1. Scarcity
+2. Choice
+3. Opportunity cost
+4. Productive efficiency
+5. Productive inefficiency
+6. Unemployed resources
+7. Economic growth
+
+![PPF](assets/ppf.svg)
+
+##### Scarcity
+We can have something but not all the things. Scarcity is shown by the frontier itself.
+
+##### Choice
+Choice is charectarized by the available options we have.
+
+##### Oppertunity cost
+The best alternative we have forgone while making a choice is called oppertunity cost.
+
+##### Productive efficiency
+Productive efficiency is represented by the point (A-E) on the PPF
+
+##### Productive inefficiency
+Productive efficiency is represented by the point F on the PPF
+
+##### Unemployed resources
+Unemployed resources is represented by the point F on the PPF
+
+![PPF with economic growth](assets/ppf_with_economic_growth.svg)
+
+##### Economic growth
+An increase in resource or advance in technology can increase the production capabilities of an economy, leading to economic growth a shift outward in the PPF.
+
+
 > Recommended book : **Economics** by Roger A Arnold
 
 
