@@ -1,4 +1,4 @@
-# Introduction to economics
+# Introduction to economics and PPF
 
 #### Why should an engineering student study economics ?
 An engineer may wish to study economics because an understanding of economics will allow the engineer to make better, more well-informed choices in his/her everyday life, wether the choice is about spending various savings or having decided on how to allocate savings between different assets.
@@ -68,7 +68,7 @@ An increase in resource or advance in technology can increase the production cap
 
 
 ```yaml
-title: Introduction to economics
+title: Introduction to economics and PPF
 date: 2022-08-03
 faculty: Md. Saddam Hossain
 prepared_by: Hazzaz, Shohan
