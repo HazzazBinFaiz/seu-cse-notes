@@ -30,7 +30,7 @@
 
 #### Calculate the Nominal GDP, Real GDP, GDP deflator, and Economic growth rate for the year 2019, 2022, and 2021
 
-Nominal GDP,
+##### Nominal GDP,
 
 $NGDP = \sum Price * Quantity$
 
@@ -49,6 +49,26 @@ $NGDP_{21} = (P_R\ast Q_R+P_S\ast Q_S+P_B\ast Q_B)$<br/>
 $\qquad=(3\ast 1200)+(6\ast 700)+(5\ast 400)$<br/>
 $\qquad=3600+4200+2000$<br/>
 $\qquad={\$9800}$
+
+
+##### Real GDP,
+
+$RGDP = \sum \bar{Price} * Quantity \qquad\left[\bar{Price}\ is\ the\ price\ of\ base\ year.\ (Usually\ earlieast\ year)\right]$
+
+$RGDP_{19} = (\bar{P}_R\ast Q_R+\bar{P}_S\ast Q_S+\bar{P}_B\ast Q_B)$<br/>
+$\qquad=(1\ast 1000)+(2\ast 500)+(1\ast 200)$<br/>
+$\qquad=1000+1000+200$<br/>
+$\qquad={\$2200}$
+
+$RGDP_{20} = (\bar{P}_R\ast Q_R+\bar{P}_S\ast Q_S+\bar{P}_B\ast Q_B)$<br/>
+$\qquad=(1\ast 1100)+(2\ast 600)+(1\ast 300)$<br/>
+$\qquad=1100+1200+300$<br/>
+$\qquad={\$2600}$
+
+$RGDP_{21} = (\bar{P}_R\ast Q_R+\bar{P}_S\ast Q_S+\bar{P}_B\ast Q_B)$<br/>
+$\qquad=(1\ast 1200)+(2\ast 700)+(1\ast 400)$<br/>
+$\qquad=1200+1400+400$<br/>
+$\qquad={\$3000}$
 
 
 ```yaml
