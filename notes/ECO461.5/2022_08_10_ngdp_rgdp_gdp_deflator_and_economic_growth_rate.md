@@ -71,6 +71,20 @@ $\qquad=1200+1400+400$<br/>
 $\qquad={\$3000}$
 
 
+##### GDP deflator
+
+GDP deflator is the ratio of the price level from nominal GDP to Real GDP times 100.
+
+$$
+GDP\ deflator = \frac{NGDP}{RGDP}\ast 100
+$$
+
+GDP deflator of 2020 is, 
+$GDP\ deflator_{20} = \frac{NGDP_{20}}{RGDP_{20}}\ast 100$<br/>
+$\qquad = \cfrac{5500}{2600}\ast 100$<br/>
+$\qquad = 2.115384\ast 100$<br/>
+
+
 ```yaml
 title: Nominal GDP, Real GDP, GDP deflator, and Economic growth rate
 date: 2022-08-10
