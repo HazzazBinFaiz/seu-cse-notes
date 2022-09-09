@@ -14,11 +14,17 @@ def scantree(path):
             yield entry
 
 
+
 def check():
     for file in scantree(path_to_scan):
         if file.name.endswith('.md') and not file.name.endswith('README.md'):
+            print(file.name)
             with open(file.path, 'rb') as note:
                 lines = list(map(lambda line : line.decode('utf-8').strip(), note.readlines()))
+
+                if not lines[0].startswith('#'):
+                    raise Exception('Note must start with a # in first line')
+
                 yaml_start_index = lines.index('```yaml')
                 yaml_end_index = lines.index('```')
                 metadata = lines[yaml_start_index+1:yaml_end_index]
