@@ -30,7 +30,8 @@
 
 #### Calculate the Nominal GDP, Real GDP, GDP deflator, and Economic growth rate for the year 2019, 2022, and 2021
 
-##### Nominal GDP,
+
+### Nominal GDP
 
 $NGDP = \sum Price * Quantity$
 
@@ -51,7 +52,7 @@ $\qquad=3600+4200+2000$<br/>
 $\qquad={\$9800}$
 
 
-##### Real GDP,
+### Real GDP
 
 $RGDP = \sum \bar{Price} * Quantity \qquad\left[\bar{Price}\ is\ the\ price\ of\ base\ year.\ (Usually\ earlieast\ year)\right]$
 
@@ -71,7 +72,7 @@ $\qquad=1200+1400+400$<br/>
 $\qquad={\$3000}$
 
 
-##### GDP deflator
+### GDP deflator
 
 GDP deflator is the ratio of the price level from nominal GDP to Real GDP times 100.
 
@@ -79,12 +80,39 @@ $$
 GDP\ deflator = \frac{NGDP}{RGDP}\ast 100
 $$
 
-GDP deflator of 2020 is, 
+GDP deflator of 2020 is, <br/>
 $GDP\ deflator_{20} = \displaystyle\frac{NGDP_{20}}{RGDP_{20}}\ast 100$<br/>
 $\qquad = \displaystyle\frac{5500}{2600}\ast 100$<br/>
 $\qquad = 2.115384\ast 100$<br/>
 $\qquad = 211.5384$<br/>
 
+
+GDP deflator of 2021 is, <br/>
+$GDP\ deflator_{21} = \displaystyle\frac{NGDP_{21}}{RGDP_{21}}\ast 100$<br/>
+$\qquad = \displaystyle\frac{9800}{3000}\ast 100$<br/>
+$\qquad = 3.266667\ast 100$<br/>
+$\qquad = 326.6667$<br/>
+
+
+### Economic growth rate
+
+$$
+Economic\ growth\ rate\ = \frac{RGDP\ of\ current\ year\ -\ RGDP\ of\ previous\ year}{RGDP\ of\ previous\ year}\ \ast 100
+$$
+
+
+Economic growth rate of 2020 is,<br/>
+$Economic\ growth\ rate\ = \displaystyle\frac{RGDP_{20} -\ RGDP_{19}}{RGDP_{19}}\ \ast 100$<br/>
+$\qquad\ = \displaystyle\frac{2600 - 2200}{2200}\ \ast 100$<br/>
+$\qquad\ = 0.181818 \ast 100$<br/>
+$\qquad\ = 18.1818$<br/>
+
+
+Economic growth rate of 2021 is,<br/>
+$Economic\ growth\ rate\ = \displaystyle\frac{RGDP_{21} -\ RGDP_{20}}{RGDP_{20}}\ \ast 100$<br/>
+$\qquad\ = \displaystyle\frac{3000 - 2600}{2600}\ \ast 100$<br/>
+$\qquad\ = 0.153846 \ast 100$<br/>
+$\qquad\ = 15.3846$<br/>
 
 ```yaml
 title: Nominal GDP, Real GDP, GDP deflator, and Economic growth rate
