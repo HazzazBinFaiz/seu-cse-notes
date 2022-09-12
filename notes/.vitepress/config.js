@@ -2,6 +2,7 @@ const fs = require('fs')
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+    base: process.env.BASE_URL ?? '/',
     lang: 'en-US',
     title: 'SEU CSE Notes',
     description: 'SEU CSE Notes static site powered by Vite & Vue.',

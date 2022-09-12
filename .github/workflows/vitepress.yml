@@ -20,6 +20,9 @@ jobs:
 
     runs-on: ubuntu-latest
 
+    env:
+      BASE_URL: /seu-cse-notes/
+
     steps:
     - uses: actions/checkout@v3
     - name: Use Node.js 16.x
