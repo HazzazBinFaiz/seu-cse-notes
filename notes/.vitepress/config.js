@@ -65,6 +65,18 @@ function sidebar() {
                 text: 'Daily Notes',
                 items: dailyNoteScanner('ECO461.5')
             }
+        ],
+        '/STA281.3/': [
+            {
+                text: 'STA281.3',
+                items: [
+                    { text: 'Course Outline', link: '/STA281.3/' },
+                ]
+            },
+            {
+                text: 'Daily Notes',
+                items: dailyNoteScanner('STA281.3')
+            }
         ]
     }
 }
