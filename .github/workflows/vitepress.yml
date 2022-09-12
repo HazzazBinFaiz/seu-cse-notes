@@ -4,6 +4,7 @@ on:
     branches: [ "vitepress" ]
   workflow_dispatch:
 
+
 permissions:
   contents: read
   pages: write
