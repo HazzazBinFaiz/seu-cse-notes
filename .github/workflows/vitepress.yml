@@ -1,0 +1,19 @@
+name: Build vitepress
+on:
+  push:
+    branches: [ "vitepress" ]
+    
+jobs:
+  build:
+    if: github.repository_owner == 'HazzazBinFaiz'
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - name: Use Node.js 16.x
+      uses: actions/setup-node@v3
+      with:
+        node-version: 16.x
+        cache: 'yarn'
+        
+    - name: Build
+      run: yarn install && yarn build
