@@ -31,7 +31,7 @@ export default defineConfig({
 })
 
 
-function dailyNoteScanner(path, mapper = null) {
+function dailyNoteScanner(path) {
     return fs.readdirSync('notes/'+path)
         .filter(file =>
             file.endsWith('.md')
@@ -40,9 +40,9 @@ function dailyNoteScanner(path, mapper = null) {
         ).map(file => {
             return {
                 text: file.match(/\d{4}_\d{2}_\d{2}/)[0].replaceAll('_', '-'),
-                link: path+'/'+file.replace('.md', '')
+                link: '/'+path+'/'+file.replace('.md', '')
             }
-        }).map(mapper ? mapper : item => item)
+        })
 }
 
 function sidebar() {
