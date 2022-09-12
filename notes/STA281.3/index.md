@@ -1,6 +1,6 @@
 # Course Outline of STA281
 
-Program : B.Sc. in CSE
+Program : B\.Sc. in CSE
 
 Course Title: STATISTICAL METHODS AND PROBABILITY
 
