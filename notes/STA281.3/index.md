@@ -21,6 +21,7 @@ Designation: Professor, Department of Mathematics, Jagannath University, Dhaka
 
 ```yaml
 title: Course Outline of STA281
+date: 2022-08-05
 faculty: Dr. Md. Ayub Ali
 prepared_by: Hazzaz
 contributor: Hazzaz
