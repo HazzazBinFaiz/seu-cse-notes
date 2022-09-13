@@ -22,12 +22,14 @@ def check():
             with open(file.path, 'rb') as note:
                 lines = list(map(lambda line : line.decode('utf-8').strip(), note.readlines()))
 
-                if not lines[0].startswith('#'):
-                    raise Exception('Note must start with a # in first line')
+                if not lines[0].startswith('---'):
+                    raise Exception('Note must start with metadata')
 
-                yaml_start_index = lines.index('```yaml')
-                yaml_end_index = lines.index('```')
-                metadata = lines[yaml_start_index+1:yaml_end_index]
+                metadata_end_index = lines[1:].index('---')
+                metadata = lines[1:metadata_end_index+1]
+
+                print(metadata)
+
                 meta_keys = [data.split(':')[0] for data in metadata]
                 missing_keys = [key for key in required_meta_keys if key not in meta_keys]
                 if len(missing_keys):
