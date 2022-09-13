@@ -7,6 +7,7 @@ export default defineConfig({
     lang: 'en-US',
     title: 'SEU CSE Notes',
     description: 'SEU CSE Notes static site powered by Vite & Vue.',
+    lastUpdated: true,
     markdown: {
         config: md => {
             md.use(require("markdown-it-katex"))
