@@ -1,3 +1,10 @@
+---
+title: Nominal GDP, Real GDP, GDP deflator, and Economic growth rate
+date: 2022-08-10
+faculty: Md. Saddam Hossain
+prepared_by: Hazzaz
+contributed_by: Hazzaz
+---
 # Nominal GDP, Real GDP, GDP deflator, and Economic growth rate
 
 
@@ -114,10 +121,3 @@ $\qquad\ = \displaystyle\frac{3000 - 2600}{2600}\ \ast 100$<br/>
 $\qquad\ = 0.153846 \ast 100$<br/>
 $\qquad\ = 15.3846$<br/>
 
-```yaml
-title: Nominal GDP, Real GDP, GDP deflator, and Economic growth rate
-date: 2022-08-10
-faculty: Md. Saddam Hossain
-prepared_by: Hazzaz
-contributor: Hazzaz
-```

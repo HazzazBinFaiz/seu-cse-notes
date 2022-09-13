@@ -1,3 +1,10 @@
+---
+title: Introduction to economics and PPF
+date: 2022-08-03
+faculty: Md. Saddam Hossain
+prepared_by: Hazzaz, Shohan
+contributed_by: Hazzaz, Shohan
+---
 # Introduction to economics and PPF
 
 #### Why should an engineering student study economics ?
@@ -66,11 +73,3 @@ An increase in resource or advance in technology can increase the production cap
 
 > Recommended book : **Economics** by Roger A Arnold
 
-
-```yaml
-title: Introduction to economics and PPF
-date: 2022-08-03
-faculty: Md. Saddam Hossain
-prepared_by: Hazzaz, Shohan
-contributor: Hazzaz, Shohan
-```

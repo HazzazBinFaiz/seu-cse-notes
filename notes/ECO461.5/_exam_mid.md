@@ -1,3 +1,10 @@
+---
+title: Midterm Exam (Introduction to Economics)
+date: 2020-09-10
+faculty: Md. Saddam Hossain
+prepared_by: Hazzaz
+contributed_by: Hazzaz
+---
 # Midterm Exam (Introduction to Economics)
 
 1. The economy of Bangladesh produces three goods: Orange, Apple and Banana. The accompanying table shows the output and prices for years 2019, 2020, and 2021.
@@ -19,12 +26,4 @@ Calculate Nominal GDP, Real GDP, and GDP deflator and Economic growth for year 2
 
 3. Explain graphically the law of demand curve is downward sloping.
 
-5. Explain the circular model of the Economy where income always equal to expenditure.
-
-```yaml
-title: Midterm Exam (Introduction to Economics)
-date: 2020-09-10
-faculty: Md. Saddam Hossain
-prepared_by: Hazzaz
-contributor: Hazzaz
-```
+5. Explain the circular model of the Economy where income always equal to expenditure
