@@ -1,3 +1,10 @@
+---
+title: Course Outline of STA281
+date: 2022-08-05
+faculty: Dr. Md. Ayub Ali
+prepared_by: Hazzaz
+contributor: Hazzaz
+---
 # Course Outline of STA281
 
 Program : B\.Sc. in CSE
@@ -17,12 +24,3 @@ Designation: Professor, Department of Mathematics, Jagannath University, Dhaka
 | Date | Lecture | Index |
 |--|--|--|
 || Lecture 1 | Course introduction, sample space, population, Experiments.|
-
-
-```yaml
-title: Course Outline of STA281
-date: 2022-08-05
-faculty: Dr. Md. Ayub Ali
-prepared_by: Hazzaz
-contributor: Hazzaz
-```

@@ -23,18 +23,18 @@ Filename should use [snake case](https://en.wikipedia.org/wiki/Snake_case).
 
 
 Write whole note in [markdow](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-In the bottom write metadata about the note, like below
+In the top write metadata about the note, like below
 
 
-<pre>
-```yaml
+```
+---
 title: Introduction to Essey Writing
 date: 2022-09-01
 faculty: Dr. Seikh Mehedi Hasan
 prepared_by: Someone1, Someone2
 contributor: Dev1, Dev2
+---
 ```
-</pre>
 
 To know more about metadata fileds writing rule, navigate to [Note contributing](/notes/README.md).
 
