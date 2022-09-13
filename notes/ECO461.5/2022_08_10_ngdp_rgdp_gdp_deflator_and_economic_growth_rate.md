@@ -3,7 +3,7 @@ title: Nominal GDP, Real GDP, GDP deflator, and Economic growth rate
 date: 2022-08-10
 faculty: Md. Saddam Hossain
 prepared_by: Hazzaz
-contributor: Hazzaz
+contributed_by: Hazzaz
 ---
 # Nominal GDP, Real GDP, GDP deflator, and Economic growth rate
 

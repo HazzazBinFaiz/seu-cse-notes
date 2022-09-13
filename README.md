@@ -32,7 +32,7 @@ title: Introduction to Essey Writing
 date: 2022-09-01
 faculty: Dr. Seikh Mehedi Hasan
 prepared_by: Someone1, Someone2
-contributor: Dev1, Dev2
+contributed_by: Dev1, Dev2
 ---
 ```
 

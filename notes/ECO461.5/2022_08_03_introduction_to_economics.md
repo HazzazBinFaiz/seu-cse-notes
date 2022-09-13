@@ -3,7 +3,7 @@ title: Introduction to economics and PPF
 date: 2022-08-03
 faculty: Md. Saddam Hossain
 prepared_by: Hazzaz, Shohan
-contributor: Hazzaz, Shohan
+contributed_by: Hazzaz, Shohan
 ---
 # Introduction to economics and PPF
 

@@ -3,7 +3,7 @@ title: Midterm Exam (Introduction to Economics)
 date: 2020-09-10
 faculty: Md. Saddam Hossain
 prepared_by: Hazzaz
-contributor: Hazzaz
+contributed_by: Hazzaz
 ---
 # Midterm Exam (Introduction to Economics)
 

@@ -4,7 +4,7 @@ from os import scandir
 
 path_to_scan = "../notes"
 
-required_meta_keys = ['title', 'faculty', 'date', 'prepared_by', 'contributor']
+required_meta_keys = ['title', 'faculty', 'date', 'prepared_by', 'contributed_by']
 
 def scantree(path):
     for entry in scandir(path):
@@ -28,7 +28,6 @@ def check():
                 metadata_end_index = lines[1:].index('---')
                 metadata = lines[1:metadata_end_index+1]
 
-                print(metadata)
 
                 meta_keys = [data.split(':')[0] for data in metadata]
                 missing_keys = [key for key in required_meta_keys if key not in meta_keys]
