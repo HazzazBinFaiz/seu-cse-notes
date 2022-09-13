@@ -1,5 +1,6 @@
 const fs = require('fs')
 import { defineConfig } from 'vitepress'
+import viteConfig from '../../vite.config'
 
 export default defineConfig({
     base: process.env.BASE_URL ?? '/',
@@ -28,7 +29,8 @@ export default defineConfig({
             copyright: 'Copyright © 2022 faculties and students of SEU'
         },
         sidebar: sidebar(),
-    }
+    },
+    vite: viteConfig
 })
 
 
